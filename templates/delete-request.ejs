@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Delete Request</title>
+    <%- include('./style') %>
+  </head>
+
+  <body>
+    <div class="container">
+      <img
+        src="https://fast-poll.com/site/mail-assets/email-logo.png"
+        alt="logo"
+      />
+
+      <h1>Hi <%= firstName %></h1>
+      <h3>There was a request to delete your account.</h3>
+
+      <p>
+        If you did not make this request, just ignore this email. Otherwise,
+        please click the button below to proceed.
+      </p>
+
+      <p>The below link will expire in 10 mins</p>
+
+      <a class="danger" href="<%= url %>">Confirm Account Deletion</a>
+    </div>
+
+    <footer>
+      <a href="mailto:hello@fast-poll.com ">hello@fast-poll.com</a>
+      <p>Copyright &copy; 2021 Fast Poll</p>
+    </footer>
+  </body>
+</html>

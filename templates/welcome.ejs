@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome To Fast Poll</title>
+    <%- include('./style') %>
+  </head>
+
+  <body>
+    <div class="container">
+      <img
+        src="https://fast-poll.com/site/mail-assets/email-logo.png"
+        alt="logo"
+      />
+      <h1>Hi <%= firstName %></h1>
+      <h3>Welcome To Fast Poll!</h3>
+
+      <p>
+        As a Fast Poll member you can now create polls and share them with the
+        world.
+      </p>
+
+      <p>Create, vote and see results of polls in Fast Poll</p>
+
+      <a class="primary" href="http://localhost:3000/dashboard">Get Started</a>
+    </div>
+
+    <footer>
+      <a href="mailto:hello@fast-poll.com ">hello@fast-poll.com</a>
+      <p>Copyright &copy; 2021 Fast Poll</p>
+    </footer>
+  </body>
+</html>
