@@ -1,4 +1,4 @@
-## Fast Poll Clone ⚙️
+# Fast Poll Clone ⚙️
 
 - React
 - Node.js
