@@ -1,4 +1,8 @@
-# Fast Poll Clone ⚙️
+# Fast Poll Clone ✅
+
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/f16d53f3-1e82-4a26-959b-af1deff85ddc" width="750" />
+
+## Technologies ⚙️
 
 - React
 - Node.js
