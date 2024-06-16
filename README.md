@@ -1,4 +1,8 @@
-## Fast Poll Clone ⚙️
+# Fast Poll Clone ✅
+
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/f16d53f3-1e82-4a26-959b-af1deff85ddc" width="750" />
+
+## Technologies ⚙️
 
 - React
 - Node.js
@@ -12,9 +16,20 @@
 - Forgot/Reset Password Feature
 - Create Poll and Share with Other Users
 - Public & Private Polls
-- Users can Comment on Polls
+- Users Can Comment on Polls
 - Edit Poll Options Like 'Login To Vote', 'Captcha Required', 'Close Poll'
 - Realtime Poll Data Updates using WebSockets
+
+## Running The Application 🧑🏻‍💻
+
+- `git clone https://github.com/jagadeesh-k-2802/fast-poll-clone-react`
+- `cd server && npm i`
+- Configure all required environment variables in `server/config/config.env.example`
+- Remove .example from the filename it should be `config.env
+- Install MongoDB Locally on Your System or use Cloud hosted connection string
+- `npm run dev` to start the node server
+- `cd client && npm i` to install NPM Libraries in Client
+- `npm start` to start React development server and opens in browser
 
 ## Features Not Implemented ❌
 
@@ -23,22 +38,17 @@
 
 ## Screenshots 📷
 
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/9269efdd-ed48-400f-bc0b-6c46be6f29b6" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/4f1edd71-7875-493e-8918-f7e044e142ab" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/d0f56ecc-d646-42cb-95c2-3bd0c2e3d78a" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/13e6dda6-bd00-4ea7-ba6f-93ecb3ae70db" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/118dcd7d-c345-4830-acb7-700abd1ff8a9" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/a1ea9777-d44d-46e0-bd28-80c2a7429d3c" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/87dd82d5-77f9-4161-94e7-d7e44adb61e0" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/f016d147-5ceb-4c12-9a35-c62035f0a077" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/4d7fcccd-7fcc-440d-8395-3c989d755100" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/6ba610d3-3d25-4173-8577-68fa2c948316" width="400" />
-<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/b6ed9c1d-437c-482c-b99e-dc0c47de06e6" width="400" />
-
-## Screen Record 📽️
-
-https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/28a2525c-bd66-40e0-9617-58e5bd7c272a
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/cd245909-b1af-42d6-aa66-a284446d45ca" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/7c200504-76c2-4202-bb2d-0d570f443256" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/63112730-2616-429d-9c29-a5bf11959666" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/545d5d72-3e21-4920-b962-9ad7dd4f8eb3" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/f6afd234-c02f-4871-b820-4ec30e203683" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/ee7372ca-1c91-414b-8e84-cb3e05914731" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/b0e3aa84-8ca6-4731-8d57-d42acc61f545" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/e6e0cd20-d688-412f-9bb3-309b6db009ec" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/8d1e918d-7bfc-49c9-ad0b-3d432665d93b" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/b07eb7ab-e0b2-426b-a3d5-083025803008" width="400" />
+<img src="https://github.com/jagadeesh-k-2802/fast-poll-clone-react/assets/63912668/126eac5b-487e-47e6-9114-f2bc83734174" width="400" />
 
 ## Credits 📝
 - Original Developer & Designer: https://twitter.com/JamiePeak
-
