@@ -34,4 +34,9 @@ app.use('/api/comments', commentsRoutes);
 // Error Handler
 app.use(errorHandler);
 
+// Send React Client
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
+});
+
 module.exports = app;
